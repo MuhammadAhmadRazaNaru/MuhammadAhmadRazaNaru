@@ -1,619 +1,231 @@
-<!-- ░░░░░░░░░░░░░░░  DARK MODE HEADER  ░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Ahmad%20Raza&fontSize=42&fontColor=00d4ff&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Bloc%20Architect&descAlignY=62&descSize=15&descColor=a78bfa&animation=twinkling#gh-dark-mode-only" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:8b5cf6&height=200&section=header&text=Muhammad%20Ahmad%20Raza&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bfdbfe,100:dbeafe&height=220&section=header&text=Muhammad%20Ahmad%20Raza&fontSize=42&fontColor=1e40af&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Bloc%20Architect&descAlignY=62&descSize=15&descColor=3b82f6&animation=twinkling#gh-light-mode-only" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+beautiful+Flutter+experiences+%F0%9F%9A%80;Firebase+%7C+GetX+%7C+Provider+State+Mgmt;Turning+ideas+into+digital+products+%F0%9F%92%A1;Open+to+opportunities+%26+collaborations!" alt="Typing SVG" /></a>
 
-</div>
+<br/>
 
-<!-- ░░░░░░░░░░░░  BOOT SCREEN — DARK  ░░░░░░░░░░░░ -->
-<div align="center">
+<!-- Profile Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmad12345321-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmad12345321)
+[![Email](https://img.shields.io/badge/Email-designfy09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designfy09@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0314%206843124-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923146843124)
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║              > INITIALIZING DEVELOPER PROFILE...                    ║
-║                                                                      ║
-║   Name    :  Muhammad Ahmad Raza                                     ║
-║   Role    :  Flutter Developer & Mobile Engineer                     ║
-║   Status  :  [ ██████████ ] Available for Opportunities             ║
-║   Base    :  Chak 143 GB, Samundri, Punjab 🇵🇰                      ║
-║   Mission :  Turning ideas into polished mobile experiences          ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-</div>
-
-<!-- ░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--ahmad--raza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmad12345321-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmad12345321)
-[![Gmail](https://img.shields.io/badge/Email-designfy09@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:designfy09@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-0314--6843124-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923146843124)
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=ahmad12345321&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░  WHOAMI  ░░░░░░░░░░░░ -->
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=ahmad12345321&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12#gh-dark-mode-only" />
-
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=ahmad12345321&show_icons=true&theme=default&hide_border=true&border_radius=12#gh-light-mode-only" />
-
-### `$ whoami`
+## 👨‍💻 About Me
 
 ```dart
-final dev = Developer(
-  name:          "Muhammad Ahmad Raza",
-  education:     "BS Software Engineering @ NUML",
-  duration:      "Sep 2021 – Sep 2025",
-  stack:         ["Flutter", "Dart", "Firebase", "Bloc"],
-  currentFocus:  "Building scalable mobile products",
-  openTo:        ["Freelance", "Full-time", "Collaborations"],
-  motto:         "Build with purpose. Design with empathy.",
-);
+class FlutterDeveloper {
+  final String name        = "Muhammad Ahmad Raza";
+  final String role        = "Flutter Developer";
+  final String location    = "Chak No. 143 GB, Tehsil Samundri, Punjab, PK";
+  final String education   = "BS Software Engineering @ NUML";
+  final String email       = "designfy09@gmail.com";
+
+  final List<String> passions = [
+    "Building modern & responsive mobile apps",
+    "Integrating Firebase for scalable backends",
+    "State management with GetX & Provider",
+    "Graphic Design with Adobe Photoshop",
+    "Exploring cutting-edge technologies",
+  ];
+
+  String get motto => "Turning creative ideas into functional digital products 🚀";
+}
 ```
 
-<br clear="right"/>
+> 🎯 **Motivated and detail-oriented Flutter Developer** with strong skills in building modern, responsive, and user-friendly mobile applications. Experienced in developing complete Flutter UIs and integrating Firebase for authentication, real-time data, and backend functions. Passionate about learning and turning creative ideas into functional digital products.
 
 ---
 
-<!-- ░░░░░░░░░░░░  FLUTTER DOCTOR  ░░░░░░░░░░░░ -->
-## `$ flutter doctor --verbose`
-
-```
-[✓] Flutter        — Mobile UI Framework
-[✓] Dart           — Primary Language
-[✓] Firebase       — Auth, Realtime DB, Firestore, Functions
-[✓] Bloc           — Predictable State Management
-[✓] RESTful APIs   — Data Integration Layer
-[✓] Git & GitHub   — Version Control
-[✓] Photoshop      — Design & Digital Art
-```
-
----
-
-<!-- ░░░░░░░░░░░░  SKILLS  ░░░░░░░░░░░░ -->
-## `$ cat skills.json`
+## 🎓 Education
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**`📱 Mobile & Language`**
-```
-Dart       ████████████░░  90%
-Flutter    ████████████░░  90%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`🔥 Backend & Database`**
-```
-Firebase   ████████████░░  88%
-Firestore  ███████████░░░  82%
-REST APIs  ████████████░░  88%
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`⚙️ State Management`**
-```
-Bloc       █████████████░  92%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`🛠️ Dev Tools`**
-```
-Git/GitHub     ████████████░░  88%
-Firebase CLI   ████████░░░░░░  65%
-VS Code        █████████████░  95%
-Photoshop      ████████░░░░░░  65%
-```
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/NUML-National%20University%20of%20Modern%20Languages-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+    </td>
+    <td>
+      <strong>BS Software Engineering</strong><br/>
+      Sep 2021 – Sep 2025
+    </td>
+  </tr>
 </table>
 
-<!-- ░░░░░░░░░░░░  TECH BADGES  ░░░░░░░░░░░░ -->
+---
+
+## 🛠️ Tech Stack & Skills
+
 <div align="center">
 
+### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🔥 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/Bloc-6C63FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ State Management
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-06B6D4?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔗 APIs & Integration
+![REST API](https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🛠 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Firebase Console](https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░ -->
-## `$ git log --oneline --all`
+## 💼 Professional Experience
 
-<details open>
-<summary><b>📋 ToDo App — Task Management</b> &nbsp; <code>Jul 2024 → 2025</code></summary>
+### 🚀 Flutter Developer — Personal Projects
+**`May 2024 – Present`**
+
+- 📱 Developed multiple mobile app UIs using **Flutter**, **GetX**, and **Provider**
+- 🔐 Integrated **Firebase Authentication** and **Realtime Database** for dynamic applications
+- 🎨 Created responsive designs and user-friendly interfaces for **eCommerce** and **delivery apps**
+- 🧮 Built custom **CGPA Calculator** and **rider tracking** features
+- ✨ Focused on **UX improvements** and smooth navigation in Flutter applications
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📋 ToDo App — Task Management Application
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logo=flutter&logoColor=white)
+
+</div>
+
+> **`Jul 2024 – 2025`**
+
+A feature-rich task management application built for productivity and seamless daily planning.
+
+| Feature | Description |
+|--------|-------------|
+| ✅ **Task CRUD** | Create, update, and delete daily tasks efficiently |
+| 🔐 **Auth** | Firebase Authentication for secure user login |
+| ☁️ **Sync** | Cloud Firestore for real-time data synchronization |
+| 🎨 **UI** | Clean and minimal UI with smooth navigation |
+
+---
+
+<div align="center">
+
+### 🍔 SmartBite — Food Delivery App
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logo=flutter&logoColor=white)
+
+</div>
+
+> **`Sep 2025`**
+
+A fully-responsive food delivery app with a sleek UI and powerful backend integration.
+
+| Feature | Description |
+|--------|-------------|
+| 🚀 **Responsive UI** | Modern design with smooth navigation flows |
+| 🔐 **Auth System** | Firebase Authentication for users and vendors |
+| 📦 **Order Management** | Realtime Database for live order tracking |
+| ⚡ **State Management** | Efficient GetX state management for performance |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmad12345321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad12345321&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12345321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certificate | Provider | Status |
+|-------------|----------|--------|
+| 🎓 **Flutter & Dart — Complete App Development Course** | Online Platform | ✅ Completed |
+| 🤖 **Generative AI for Mobile App Developers** | Online Platform | ✅ Completed |
+
+</div>
+
+---
+
+## 🎨 Interests
+
+<div align="center">
+
+```
+🎨 Graphic Design          🚀 Mobile App Development       🤖 Generative AI
+Adobe Photoshop            Flutter Ecosystem               AI in Mobile Apps
+Digital Art & Visuals      Modern UI/UX Design             Exploring New Tech
+```
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [designfy09@gmail.com](mailto:designfy09@gmail.com) |
+| 💼 **LinkedIn** | [muhammad-ahmad-raza-b9974a315](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315) |
+| 🐙 **GitHub** | [ahmad12345321](https://github.com/ahmad12345321) |
+| 📞 **Phone** | [0314-6843124](tel:+923146843124) |
+| 📍 **Location** | Chak No. 143 GB, Tehsil Samundri, Punjab, Pakistan |
 
 <br/>
 
-> **Stack:** &nbsp; `Flutter` &nbsp; `Firebase` &nbsp; `Bloc` &nbsp; `Firestore`
-
-```
-commit a3f2c1d  ✅ Implement Firebase Auth + Firestore real-time sync
-commit b7d8e4a  🎨 Design clean minimal UI with smooth task navigation
-commit c1a9f3b  ⚡ Add create / update / delete task operations via Bloc
-commit d4e5b2c  📱 Optimize UX flows & navigation architecture
-```
-
-| Feature | Detail |
-|---------|--------|
-| 🔐 **Auth** | Firebase Authentication — secure multi-user login |
-| ☁️ **Sync** | Cloud Firestore — real-time data across devices |
-| 🧱 **State** | Bloc pattern — clean, testable event-driven logic |
-| 🎨 **UI** | Minimal, distraction-free task interface |
-
-</details>
+**💬 I'm open to freelance projects, collaborations, and full-time opportunities!**
 
 <br/>
 
-<details open>
-<summary><b>🍔 SmartBite — Food Delivery App</b> &nbsp; <code>Sep 2025</code></summary>
-
-<br/>
-
-> **Stack:** &nbsp; `Flutter` &nbsp; `Firebase` &nbsp; `Bloc` &nbsp; `Realtime Database`
-
-```
-commit e9f1a7b  🚀 Architect responsive food delivery UI with Bloc
-commit f2b3c8d  🔐 Integrate Firebase Auth for users & vendors
-commit g5h6i9j  📦 Build Realtime Database order tracking pipeline
-commit h8k0l1m  🎨 Polish modern UI design & micro-interactions
-```
-
-| Feature | Detail |
-|---------|--------|
-| 🛍️ **Order Flow** | Full browse → cart → checkout experience |
-| 🔐 **Auth System** | Firebase Auth for users & vendor management |
-| 📡 **Live Orders** | Realtime Database for live status tracking |
-| 🧱 **State** | Bloc — scalable & predictable state management |
-
-</details>
-
----
-
-<!-- ░░░░░░░░░░░░  MINI PROJECTS  ░░░░░░░░░░░░ -->
-## `$ ls ~/projects/mini`
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🧮 **CGPA Calculator** | Flutter + Bloc | Custom academic grade calculator |
-| 🛵 **Rider Tracker** | Flutter + Firebase | Real-time delivery location tracking |
-| 🛒 **eCommerce UI** | Flutter + Bloc | Responsive shopping app interface |
-
----
-
-<!-- ░░░░░░░░░░░░  EXPERIENCE LOG  ░░░░░░░░░░░░ -->
-## `$ cat experience.log`
-
-```log
-[2021-09-01] INFO  :: Started BS Software Engineering @ NUML
-[2024-05-01] INFO  :: Began Flutter development — personal projects
-[2024-07-01] INFO  :: Shipped ToDo App v1.0 — Firebase + Bloc
-[2024-09-01] INFO  :: Built CGPA Calculator with Bloc state management
-[2025-01-01] INFO  :: Developed rider location tracking feature
-[2025-09-01] INFO  :: Launched SmartBite food delivery app
-[2025-09-01] INFO  :: Graduated — BS Software Engineering ✅
-[PRESENT]    INFO  :: Open for new roles & projects  🟢
-```
-
----
-
-<!-- ░░░░░░░░░░░░  GITHUB STATS — DARK  ░░░░░░░░░░░░ -->
-## `$ curl stats.github.com/ahmad12345321`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad12345321&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681&sideNums=c9d1d9&currStreakNum=00d4ff#gh-dark-mode-only" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12345321&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=5&border_radius=12#gh-dark-mode-only" />
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad12345321&theme=default&hide_border=true#gh-light-mode-only" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12345321&layout=compact&theme=default&hide_border=true&langs_count=5&border_radius=12#gh-light-mode-only" />
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:06b6d4&height=120&section=footer&animation=fadeIn" />
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░  CERTIFICATES  ░░░░░░░░░░░░ -->
-## `$ cat certificates.txt`
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🏅  Flutter & Dart — Complete App Development Course           │
-│      Status: ✅ VERIFIED                                        │
-├────────────────────────────────────────────────────────────────┤
-│  🤖  Generative AI for Mobile App Developers                    │
-│      Status: ✅ VERIFIED                                        │
-└────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ░░░░░░░░░░░░  INTERESTS  ░░░░░░░░░░░░ -->
-## `$ cat interests.conf`
-
-```ini
-[creative]
-graphic_design  = Adobe Photoshop — Digital Art & Branding
-ui_aesthetics   = Modern design systems, visual storytelling
-
-[technical]
-mobile_dev      = Flutter ecosystem, new SDK features & patterns
-ai_tools        = Generative AI integration in mobile apps
-architecture    = Clean architecture, Bloc pattern, scalability
-
-[mindset]
-motto           = "Build with purpose. Design with empathy."
-learning        = always = true
-open_source     = interested = true
-```
-
----
-
-<!-- ░░░░░░░░░░░░  CONTACT  ░░░░░░░░░░░░ -->
-## `$ ping ahmad12345321`
-
 <div align="center">
-
-```
-PING ahmad12345321 — Response time: Fast  🟢
-
-📧   designfy09@gmail.com
-💼   linkedin.com/in/muhammad-ahmad-raza-b9974a315
-🐙   github.com/ahmad12345321
-📞   +92 314 6843124
-📍   Chak 143 GB, Tehsil Samundri, Punjab, Pakistan
-
-[ STATUS ]  💬  Open to freelance, remote & full-time roles
-```
-
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designfy09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315)
-[![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmad12345321)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░  FOOTER — DARK  ░░░░░░░░░░░░ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer&reversal=true#gh-dark-mode-only" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=110&section=footer&reversal=true#gh-light-mode-only" />
-
-```
-> process.exit(0)  //  Thanks for visiting! ⭐ Star a repo if you like what you see
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmad12345321&color=00d4ff&style=flat-square&label=Profile+Visitors)
-
-</div><!-- ░░░░░░░░░░░░░░░  DARK MODE HEADER  ░░░░░░░░░░░░░░░ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Ahmad%20Raza&fontSize=42&fontColor=00d4ff&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Bloc%20Architect&descAlignY=62&descSize=15&descColor=a78bfa&animation=twinkling#gh-dark-mode-only" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e0f2fe,50:bfdbfe,100:dbeafe&height=220&section=header&text=Muhammad%20Ahmad%20Raza&fontSize=42&fontColor=1e40af&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20Bloc%20Architect&descAlignY=62&descSize=15&descColor=3b82f6&animation=twinkling#gh-light-mode-only" />
-
-</div>
-
-<!-- ░░░░░░░░░░░░  BOOT SCREEN — DARK  ░░░░░░░░░░░░ -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║              > INITIALIZING DEVELOPER PROFILE...                    ║
-║                                                                      ║
-║   Name    :  Muhammad Ahmad Raza                                     ║
-║   Role    :  Flutter Developer & Mobile Engineer                     ║
-║   Status  :  [ ██████████ ] Available for Opportunities             ║
-║   Base    :  Chak 143 GB, Samundri, Punjab 🇵🇰                      ║
-║   Mission :  Turning ideas into polished mobile experiences          ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ░░░░░░░░░░░░  BADGES  ░░░░░░░░░░░░ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--ahmad--raza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmad12345321-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmad12345321)
-[![Gmail](https://img.shields.io/badge/Email-designfy09@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:designfy09@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-0314--6843124-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923146843124)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░  WHOAMI  ░░░░░░░░░░░░ -->
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=ahmad12345321&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12#gh-dark-mode-only" />
-
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=ahmad12345321&show_icons=true&theme=default&hide_border=true&border_radius=12#gh-light-mode-only" />
-
-### `$ whoami`
-
-```dart
-final dev = Developer(
-  name:          "Muhammad Ahmad Raza",
-  education:     "BS Software Engineering @ NUML",
-  duration:      "Sep 2021 – Sep 2025",
-  stack:         ["Flutter", "Dart", "Firebase", "Bloc"],
-  currentFocus:  "Building scalable mobile products",
-  openTo:        ["Freelance", "Full-time", "Collaborations"],
-  motto:         "Build with purpose. Design with empathy.",
-);
-```
-
-<br clear="right"/>
-
----
-
-<!-- ░░░░░░░░░░░░  FLUTTER DOCTOR  ░░░░░░░░░░░░ -->
-## `$ flutter doctor --verbose`
-
-```
-[✓] Flutter        — Mobile UI Framework
-[✓] Dart           — Primary Language
-[✓] Firebase       — Auth, Realtime DB, Firestore, Functions
-[✓] Bloc           — Predictable State Management
-[✓] RESTful APIs   — Data Integration Layer
-[✓] Git & GitHub   — Version Control
-[✓] Photoshop      — Design & Digital Art
-```
-
----
-
-<!-- ░░░░░░░░░░░░  SKILLS  ░░░░░░░░░░░░ -->
-## `$ cat skills.json`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`📱 Mobile & Language`**
-```
-Dart       ████████████░░  90%
-Flutter    ████████████░░  90%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`🔥 Backend & Database`**
-```
-Firebase   ████████████░░  88%
-Firestore  ███████████░░░  82%
-REST APIs  ████████████░░  88%
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`⚙️ State Management`**
-```
-Bloc       █████████████░  92%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`🛠️ Dev Tools`**
-```
-Git/GitHub     ████████████░░  88%
-Firebase CLI   ████████░░░░░░  65%
-VS Code        █████████████░  95%
-Photoshop      ████████░░░░░░  65%
-```
-
-</td>
-</tr>
-</table>
-
-<!-- ░░░░░░░░░░░░  TECH BADGES  ░░░░░░░░░░░░ -->
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/Bloc-6C63FF?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░ -->
-## `$ git log --oneline --all`
-
-<details open>
-<summary><b>📋 ToDo App — Task Management</b> &nbsp; <code>Jul 2024 → 2025</code></summary>
-
-<br/>
-
-> **Stack:** &nbsp; `Flutter` &nbsp; `Firebase` &nbsp; `Bloc` &nbsp; `Firestore`
-
-```
-commit a3f2c1d  ✅ Implement Firebase Auth + Firestore real-time sync
-commit b7d8e4a  🎨 Design clean minimal UI with smooth task navigation
-commit c1a9f3b  ⚡ Add create / update / delete task operations via Bloc
-commit d4e5b2c  📱 Optimize UX flows & navigation architecture
-```
-
-| Feature | Detail |
-|---------|--------|
-| 🔐 **Auth** | Firebase Authentication — secure multi-user login |
-| ☁️ **Sync** | Cloud Firestore — real-time data across devices |
-| 🧱 **State** | Bloc pattern — clean, testable event-driven logic |
-| 🎨 **UI** | Minimal, distraction-free task interface |
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🍔 SmartBite — Food Delivery App</b> &nbsp; <code>Sep 2025</code></summary>
-
-<br/>
-
-> **Stack:** &nbsp; `Flutter` &nbsp; `Firebase` &nbsp; `Bloc` &nbsp; `Realtime Database`
-
-```
-commit e9f1a7b  🚀 Architect responsive food delivery UI with Bloc
-commit f2b3c8d  🔐 Integrate Firebase Auth for users & vendors
-commit g5h6i9j  📦 Build Realtime Database order tracking pipeline
-commit h8k0l1m  🎨 Polish modern UI design & micro-interactions
-```
-
-| Feature | Detail |
-|---------|--------|
-| 🛍️ **Order Flow** | Full browse → cart → checkout experience |
-| 🔐 **Auth System** | Firebase Auth for users & vendor management |
-| 📡 **Live Orders** | Realtime Database for live status tracking |
-| 🧱 **State** | Bloc — scalable & predictable state management |
-
-</details>
-
----
-
-<!-- ░░░░░░░░░░░░  MINI PROJECTS  ░░░░░░░░░░░░ -->
-## `$ ls ~/projects/mini`
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🧮 **CGPA Calculator** | Flutter + Bloc | Custom academic grade calculator |
-| 🛵 **Rider Tracker** | Flutter + Firebase | Real-time delivery location tracking |
-| 🛒 **eCommerce UI** | Flutter + Bloc | Responsive shopping app interface |
-
----
-
-<!-- ░░░░░░░░░░░░  EXPERIENCE LOG  ░░░░░░░░░░░░ -->
-## `$ cat experience.log`
-
-```log
-[2021-09-01] INFO  :: Started BS Software Engineering @ NUML
-[2024-05-01] INFO  :: Began Flutter development — personal projects
-[2024-07-01] INFO  :: Shipped ToDo App v1.0 — Firebase + Bloc
-[2024-09-01] INFO  :: Built CGPA Calculator with Bloc state management
-[2025-01-01] INFO  :: Developed rider location tracking feature
-[2025-09-01] INFO  :: Launched SmartBite food delivery app
-[2025-09-01] INFO  :: Graduated — BS Software Engineering ✅
-[PRESENT]    INFO  :: Open for new roles & projects  🟢
-```
-
----
-
-<!-- ░░░░░░░░░░░░  GITHUB STATS — DARK  ░░░░░░░░░░░░ -->
-## `$ curl stats.github.com/ahmad12345321`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad12345321&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681&sideNums=c9d1d9&currStreakNum=00d4ff#gh-dark-mode-only" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12345321&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=5&border_radius=12#gh-dark-mode-only" />
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad12345321&theme=default&hide_border=true#gh-light-mode-only" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad12345321&layout=compact&theme=default&hide_border=true&langs_count=5&border_radius=12#gh-light-mode-only" />
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░  CERTIFICATES  ░░░░░░░░░░░░ -->
-## `$ cat certificates.txt`
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🏅  Flutter & Dart — Complete App Development Course           │
-│      Status: ✅ VERIFIED                                        │
-├────────────────────────────────────────────────────────────────┤
-│  🤖  Generative AI for Mobile App Developers                    │
-│      Status: ✅ VERIFIED                                        │
-└────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ░░░░░░░░░░░░  INTERESTS  ░░░░░░░░░░░░ -->
-## `$ cat interests.conf`
-
-```ini
-[creative]
-graphic_design  = Adobe Photoshop — Digital Art & Branding
-ui_aesthetics   = Modern design systems, visual storytelling
-
-[technical]
-mobile_dev      = Flutter ecosystem, new SDK features & patterns
-ai_tools        = Generative AI integration in mobile apps
-architecture    = Clean architecture, Bloc pattern, scalability
-
-[mindset]
-motto           = "Build with purpose. Design with empathy."
-learning        = always = true
-open_source     = interested = true
-```
-
----
-
-<!-- ░░░░░░░░░░░░  CONTACT  ░░░░░░░░░░░░ -->
-## `$ ping ahmad12345321`
-
-<div align="center">
-
-```
-PING ahmad12345321 — Response time: Fast  🟢
-
-📧   designfy09@gmail.com
-💼   linkedin.com/in/muhammad-ahmad-raza-b9974a315
-🐙   github.com/ahmad12345321
-📞   +92 314 6843124
-📍   Chak 143 GB, Tehsil Samundri, Punjab, Pakistan
-
-[ STATUS ]  💬  Open to freelance, remote & full-time roles
-```
-
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designfy09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahmad-raza-b9974a315)
-[![GitHub](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmad12345321)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░  FOOTER — DARK  ░░░░░░░░░░░░ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer&reversal=true#gh-dark-mode-only" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=110&section=footer&reversal=true#gh-light-mode-only" />
-
-```
-> process.exit(0)  //  Thanks for visiting! ⭐ Star a repo if you like what you see
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmad12345321&color=00d4ff&style=flat-square&label=Profile+Visitors)
-
+  <i>⭐ If you find my work interesting, feel free to star my repositories!</i><br/>
+  <sub>Made with ❤️ by Muhammad Ahmad Raza</sub>
 </div>
