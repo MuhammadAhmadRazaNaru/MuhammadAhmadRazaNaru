@@ -7,7 +7,7 @@
 
 </div>
 
-<!-- ░░░░░░░░░░░░  BOOT SCREEN — DARK  ░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░  BOOT SCREEN  ░░░░░░░░░░░░ -->
 <div align="center">
 
 ```
@@ -217,7 +217,7 @@ commit h8k0l1m  🎨 Polish modern UI design & micro-interactions
 
 ---
 
-<!-- ░░░░░░░░░░░░  GITHUB STATS — DARK  ░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░ -->
 ## `$ curl stats.github.com/ahmad12345321`
 
 <div align="center">
@@ -295,7 +295,7 @@ PING ahmad12345321 — Response time: Fast  🟢
 
 ---
 
-<!-- ░░░░░░░░░░░░  FOOTER — DARK  ░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer&reversal=true#gh-dark-mode-only" />
